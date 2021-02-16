@@ -150,7 +150,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"..\/..\/Downloads\/my_map_new\/my_map_41\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -905,7 +905,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"..\/..\/Downloads\/my_map_new\/my_map_41\/floortileset.png",
+         "image":"floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -937,7 +937,7 @@
         {
          "columns":16,
          "firstgid":321,
-         "image":"..\/..\/Downloads\/tilesets\/tilesets\/A1_AnimatedGround.png",
+         "image":"A1_AnimatedGround.png",
          "imageheight":384,
          "imagewidth":512,
          "margin":0,
@@ -950,7 +950,7 @@
         {
          "columns":16,
          "firstgid":513,
-         "image":"..\/..\/Downloads\/tilesets\/tilesets\/A2_Ground.png",
+         "image":"A2_Ground.png",
          "imageheight":384,
          "imagewidth":512,
          "margin":0,
@@ -963,7 +963,7 @@
         {
          "columns":16,
          "firstgid":705,
-         "image":"..\/..\/Downloads\/tilesets\/tilesets\/A4_Walls.png",
+         "image":"A4_Walls.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -976,7 +976,7 @@
         {
          "columns":16,
          "firstgid":961,
-         "image":"..\/..\/Downloads\/tilesets\/tilesets\/A4_Walls_2.png",
+         "image":"A4_Walls_2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -999,7 +999,7 @@
         {
          "columns":8,
          "firstgid":1217,
-         "image":"..\/..\/Downloads\/tilesets\/tilesets\/A5_Tiles.png",
+         "image":"A5_Tiles.png",
          "imageheight":512,
          "imagewidth":256,
          "margin":0,
@@ -1022,7 +1022,7 @@
         {
          "columns":16,
          "firstgid":1345,
-         "image":"..\/..\/Downloads\/tilesets\/tilesets\/B_HouseExteriorTiles.png",
+         "image":"B_HouseExteriorTiles.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1035,7 +1035,7 @@
         {
          "columns":16,
          "firstgid":1601,
-         "image":"..\/..\/Downloads\/tilesets\/tilesets\/C_OutSide_Nature.png",
+         "image":"C_OutSide_Nature.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1048,7 +1048,7 @@
         {
          "columns":16,
          "firstgid":1857,
-         "image":"..\/..\/Downloads\/tilesets\/tilesets\/D_Inside_House.png",
+         "image":"D_Inside_House.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1170,7 +1170,7 @@
         {
          "columns":16,
          "firstgid":2113,
-         "image":"..\/..\/Downloads\/tilesets\/tilesets\/D_OutDoor.png",
+         "image":"D_OutDoor.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
